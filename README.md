@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Your github readme stats
+You can use this api: https://github.com/dasydong/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/fengzhizi715/">
+    <img  margin-top="-30px" width="55%" align="right" alt="fengzhizi715's github stats" src="https://github-readme-stats.vercel.app/api?username=fengzhizi715&show_icons=true&hide_border=true" />
+  </a>
