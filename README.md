@@ -34,7 +34,7 @@ You can use this api: https://github.com/fengzhizi715/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/groovy/groovy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
