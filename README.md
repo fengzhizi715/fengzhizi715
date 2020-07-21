@@ -1,7 +1,7 @@
 ### Hi, I'm Tony Shen, a Developer 🚀 from China.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="images/git-header.svg" />
 
 <!--
 **fengzhizi715/fengzhizi715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
