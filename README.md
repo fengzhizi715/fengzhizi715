@@ -18,10 +18,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+**Languages and Tools:**
+
 <!-- Your github readme stats
-You can use this api: https://github.com/dasydong/github-readme-stats
+You can use this api: https://github.com/fengzhizi715/github-readme-stats
 -->
 <p>
   <a href="https://github.com/fengzhizi715/">
     <img  margin-top="-30px" width="55%" align="right" alt="fengzhizi715's github stats" src="https://github-readme-stats.vercel.app/api?username=fengzhizi715&show_icons=true&hide_border=true" />
   </a>
+
+  <!-- Your languages and tools. Be carefufal with the alignment.
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
+</p>
