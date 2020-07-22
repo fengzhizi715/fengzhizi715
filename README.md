@@ -57,5 +57,5 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="http://hits.dwyl.com/fengzhizi715/fengzhizi715" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/fengzhizi715/fengzhizi715.svg" />
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=fengzhizi715" />
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=fengzhizi715.fengzhizi715" />
 </p>
