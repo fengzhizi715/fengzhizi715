@@ -49,4 +49,5 @@ You can use this api: https://github.com/fengzhizi715/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-<a href="https://info.flagcounter.com/vwIR"><img src="https://s01.flagcounter.com/count2/vwIR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<a href="https://info.flagcounter.com/vwIR"><img src="https://s01.flagcounter.com/count2/vwIR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0"></a>
