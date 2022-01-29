@@ -20,11 +20,11 @@ You can use this api: https://github.com/fengzhizi715/github-readme-stats
 -->
 <p>
   <a href="https://github.com/fengzhizi715/">
-    <img  margin-top="-30px" width="50%" align="left" alt="fengzhizi715's github stats" src="https://github-readme-stats.vercel.app/api?username=fengzhizi715&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img  margin-top="-30px" width="50%" align="left" alt="fengzhizi715's github stats" src="https://github-readme-stats.vercel.app/api?username=fengzhizi715&show_icons=true&hide_border=true" />
   </a>
   
   <a href="https://github.com/fengzhizi715/">
-    <img  margin-top="-30px" width="45%" align="right" alt="fengzhizi715's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengzhizi715&langs_count=8&hide_border=true&layout=compact&theme=tokyonight" />
+    <img  margin-top="-30px" width="45%" align="right" alt="fengzhizi715's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengzhizi715&langs_count=8&hide_border=true&layout=compact" />
   </a>
   
   **Languages and Tools:**
