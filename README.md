@@ -18,14 +18,19 @@ Here are some ideas to get you started:
 <!-- Your github readme stats
 You can use this api: https://github.com/fengzhizi715/github-readme-stats
 -->
-<p>
-  <a href="https://github.com/fengzhizi715/">
-    <img  margin-top="-30px" width="50%" align="left" alt="fengzhizi715's github stats" src="https://github-readme-stats.vercel.app/api?username=fengzhizi715&show_icons=true&hide_border=true" />
-  </a>
+
   
-  <a href="https://github.com/fengzhizi715/">
-    <img  margin-top="-30px" width="45%" align="right" alt="fengzhizi715's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengzhizi715&langs_count=8&hide_border=true&layout=compact" />
-  </a>
+<img width = "900" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fengzhizi715&theme=dracula" />
+
+<p>
+<p> 
+  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fengzhizi715&theme=dracula"/>
+  
+  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fengzhizi715&theme=dracula"/>
+
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fengzhizi715&theme=dracula&utcOffset=8"/>
+  
+</p>
   
   **Languages and Tools:**
 
@@ -47,7 +52,9 @@ You can use this api: https://github.com/fengzhizi715/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> 
+ 
 </p>
+
 
 
 <!--<a href="https://info.flagcounter.com/vwIR"><img margin-top="-40px" align="right" src="https://s01.flagcounter.com/count2/vwIR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0"></a>-->
