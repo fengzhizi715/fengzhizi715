@@ -23,36 +23,11 @@ You can use this api: https://github.com/fengzhizi715/github-readme-stats
 <img width = "900" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fengzhizi715&theme=dracula" />
 
 <p>
-<p> 
   <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fengzhizi715&theme=dracula"/>
   
   <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fengzhizi715&theme=dracula"/>
 
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fengzhizi715&theme=dracula&utcOffset=8"/>
-  
-</p>
-  
-  **Languages and Tools:**
-
-  <!-- Your languages and tools. Be carefufal with the alignment.
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> 
- 
 </p>
 
 
